@@ -1,3 +1,5 @@
+Project is abandoned and deprecated for now.
+
 # TfsGet
 Simple ad-hoc Team System command line tool.
 
